@@ -1,0 +1,3 @@
+# Zolidity
+
+Simplest Solidity compiler
